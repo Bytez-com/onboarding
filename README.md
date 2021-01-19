@@ -14,15 +14,15 @@ Below, you'll find:
 
 #### Features currently available
 * Smart-reader
-** Mark up papers with highlights and notes
-** Share highlights and notes with friends
-** See each paper's code, content, and dicussions from around the web
+  * Papers have Wikipedia-style interactivity
+  * Mark up papers with highlights and notes; share notes with friends
+  * See each paper's code, content, and dicussions from around the web
 * Save
-** Quick save papers to see them later
-** Save papers in private or shared folder
+  * Quick save papers to see them later
+  * Save papers in private or shared folder
 * Search
-** Search for papers
-** Search for implemenations
+  * Search for papers
+  * Search for implemenations
 
 ## Getting started
 

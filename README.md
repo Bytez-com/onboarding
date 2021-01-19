@@ -3,7 +3,7 @@ Welcome to early access! Its so early, we're using a repo for onboarding 😂
 
 Below, you'll find: 
 * [What to Expect](#What-you-can-expect)
-* [Features](#Features-currently-available)
+* [Features](#top-features)
 * [How to Get Started](#Getting-started) 
 
 ## What you can expect
@@ -12,7 +12,8 @@ Below, you'll find:
 * If you open an ML paper that we havent seen yet, it may take us a few seconds to crawl the web for its content and convert it to HTML. Thereafter, that paper should load in less than 1 second. :)
 * Please provide us feedback. We'll turn your ideas into features for the world to experience
 
-#### Features currently available
+#### Top Features
+
 * Smart-reader
   * Papers have Wikipedia-style interactivity
   * Mark up papers with highlights and notes; share notes with your team
@@ -23,6 +24,8 @@ Below, you'll find:
 * Search
   * Search for papers
   * Search for implemenations
+
+#### [Click here to play with the features](https://bytez.com/read/arxiv/1706.03762/tour)
 
 ## Getting started
 

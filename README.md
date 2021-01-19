@@ -50,3 +50,7 @@ There's a feedback menu icon you can use to send us bugs, feature requests, or t
 ![Feedback button](feedback.png "Feedback button")
 
 ![Send feedback](feedback-open.png "Feedback dialog")
+
+### Step 4 - Done
+Now all Arxiv ML / data science papers will come to life in the Smart Reader. In case you want to go back to Adobe Reader, you can disable the plugin by clicking on it
+

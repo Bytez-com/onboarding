@@ -13,6 +13,7 @@ Below, you'll find:
 * Please provide us feedback. We'll turn your ideas into features for the world to experience
 
 #### Top Features
+##### [Want to preview the features? Click here](https://bytez.com/read/arxiv/1706.03762/tour)
 
 * Smart-reader
   * Papers have Wikipedia-style interactivity
@@ -25,7 +26,6 @@ Below, you'll find:
   * Search for papers
   * Search for implemenations
 
-#### [Click here to play with the features](https://bytez.com/read/arxiv/1706.03762/tour)
 
 ## Getting started
 

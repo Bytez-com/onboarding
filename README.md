@@ -17,6 +17,7 @@ For now, I haven't created
 
 ![Install](webstore.png "Install")
 
+
 ### Step 2 - Pin the extension
 Click Extensions, then find and pin the extension
 
@@ -25,4 +26,9 @@ Click Extensions, then find and pin the extension
 
 
 ### Step 3 - Share feedback
+There's a feedback menu icon you can use to send us bugs, feature requests, or tell us a bad joke... :P
 
+
+![Feedback button](feedback.png "Feedback button")
+
+![Send feedback](feedback-open.png "Feedback dialog")

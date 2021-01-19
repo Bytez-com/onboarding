@@ -5,15 +5,16 @@ For now, I haven't created
 * 
 
 ## Getting started
+
+### Step 1 - Install Chrome extension
 [Install the Chrome extension](https://chrome.google.com/webstore/detail/bytez/bpmfhekkemkklhccdjkeokildopbneni)
 
 ![Install](webstore.png "Install")
+Click the blue "Add to Chrome" button
 
-### Step 1 - Install Chrome extension
-Install
-## Getting started 
-👋 Hi there!
-To start, pin & click the extension
+
+### Step 2 - Pin the extension
+Click Extensions, then find and pin the extension
 
 ![Unpinned](/unpinnned.png "Unpinned")
 ![Pinned](/pinned.png "Pinned")

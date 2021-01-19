@@ -1,5 +1,10 @@
 # Onboarding
-For now, I haven't created 
+Welcome to early access! Its so early, we're using a repo for onboarding 😂
+
+Below, you'll find: 
+* [What to Expect](#What-you-can-expect)
+* [Features](#Features-currently-available)
+* [How to Get Started](#Getting-started) 
 
 ## What you can expect
 * Bytez will replace Adobe Reader when you open ML / data science papers from Arxiv.org
@@ -7,7 +12,17 @@ For now, I haven't created
 * If you open an ML paper that we havent seen yet, it may take us a few seconds to crawl the web for its content and convert it to HTML. Thereafter, that paper should load in less than 1 second. :)
 * Please provide us feedback. We'll turn your ideas into features for the world to experience
 
-
+#### Features currently available
+* Smart-reader
+** Mark up papers with highlights and notes
+** Share highlights and notes with friends
+** See each paper's code, content, and dicussions from around the web
+* Save
+** Quick save papers to see them later
+** Save papers in private or shared folder
+* Search
+** Search for papers
+** Search for implemenations
 
 ## Getting started
 

@@ -6,7 +6,8 @@ For now, I haven't created
 
 ## Getting started
 [Install the Chrome extension](https://chrome.google.com/webstore/detail/bytez/bpmfhekkemkklhccdjkeokildopbneni)
-![chrome-webstore.png](/chrome-webstore.png "Install")
+
+![Install the Chrome extension](web-store.png "Install")
 
 ### Step 1 - Install Chrome extension
 Install

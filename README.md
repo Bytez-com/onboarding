@@ -45,7 +45,7 @@ Click Extensions, then find and pin the extension
 ![Pinned](/pinned.png "Pinned")
 
 
-#### Sharing feedback
+## How to Share Feedback
 There's a feedback menu icon you can use to send us bugs, feature requests, or tell us a bad joke... :P
 
 

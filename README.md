@@ -36,15 +36,16 @@ Below, you'll find:
 
 ![Install](webstore.png "Install")
 
+Now all Arxiv ML / data science papers will come to life in the Smart Reader. In case you want to go back to Adobe Reader, you can disable the plugin by clicking on it
 
-### Step 2 - Pin the extension
+#### Step 2 - Pin the extension
 Click Extensions, then find and pin the extension
 
 ![Unpinned](/unpinnned.png "Unpinned")
 ![Pinned](/pinned.png "Pinned")
 
 
-### Step 3 - Share feedback
+#### Sharing feedback
 There's a feedback menu icon you can use to send us bugs, feature requests, or tell us a bad joke... :P
 
 
@@ -52,6 +53,4 @@ There's a feedback menu icon you can use to send us bugs, feature requests, or t
 
 ![Send feedback](feedback-open.png "Feedback dialog")
 
-### Step 4 - Done
-Now all Arxiv ML / data science papers will come to life in the Smart Reader. In case you want to go back to Adobe Reader, you can disable the plugin by clicking on it
 

@@ -8,7 +8,7 @@ Below, you'll find:
 
 ## What you can expect
 * Bytez will replace Adobe Reader when you open ML / data science papers from Arxiv.org
-* At the moment, only Chrome desktop browser is supported
+* At the moment, only Chrome / Chromium desktop browsers are supported
 * If you open an ML paper that we havent seen yet, it may take us a few seconds to crawl the web for its content and convert it to HTML. Thereafter, that paper should load in less than 1 second. :)
 * Please provide us feedback. We'll turn your ideas into features for the world to experience
 

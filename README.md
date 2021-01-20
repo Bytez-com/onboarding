@@ -22,6 +22,7 @@ Below, you'll find:
 * Save
   * Quick save papers to see them later
   * Save papers in private or team folders
+  * Your saved papers are backed up to Google Drive
 * Search
   * Search for papers
   * Search for implemenations
